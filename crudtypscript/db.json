@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "title": "Muhammad",
+      "price": "10000",
+      "id": 1
+    },
+    {
+      "title": "kamal",
+      "price": "12345",
+      "id": 2
+    },
+    {
+      "title": "zulfa",
+      "price": "1232313",
+      "id": 3
+    }
+  ]
+}
